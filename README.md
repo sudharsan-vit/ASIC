@@ -5,9 +5,6 @@ This repository contains RTL design, synthesis, verification, and physical imple
 
 ---
 
-
----
-
 ## Overview of Labs
 
 ### 🔹 **Lab-1: RTL Coding & Simulation**
